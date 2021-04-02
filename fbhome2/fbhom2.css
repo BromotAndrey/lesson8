@@ -1,0 +1,223 @@
+.page{ 
+    background: #E2E7EC;
+    position: relative;
+    width: 1440px;
+    height: 1280px;
+}
+.up{
+    width: 740px;
+    height: 540px;
+    left: 160px;
+    top: 90px;
+}
+.car{
+    background-image: url(Car.png);
+    position: absolute;
+    width: 740px;
+    height: 540px;
+    left: 160px;
+    top: 90px;
+}
+span{
+    
+    position: absolute;
+    width: 450px;
+    height: 70px;
+    left: 184px;
+    top: 430px;
+    margin-left: -160px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    text-transform: uppercase;
+   
+
+color: #FFFFFF;
+}
+.girl{
+    position: absolute;
+    width: 360px;
+    height: 251px;
+    left: 920px;
+    top: 90px;
+}
+h5{
+    position: absolute;
+    width: 106px;
+    height: 16px;
+    left: 30px;
+    top: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #818181;
+}
+.text2{
+    position: absolute;
+    width: 360px;
+    height: 290px;
+    left: 0px;
+    top: 251px;
+    background: #FFFFFF;
+}
+span.text3{
+    position: absolute;
+    width: 304px;
+    height: 78px;
+    left: 190px;
+    top: 80px;
+
+    
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+
+    color: #1D1D1D;
+}
+.ava{
+    position: absolute;
+    
+    left: 30px;
+    top: 220px;
+    
+}
+.down{
+    display: flex;
+    justify-content: space-evenly;
+}
+.fotogirls{
+    position: absolute;
+    width: 360px;
+    height: 540px;
+    left: 160px;
+    top: 650px;
+    background: #FFFFFF;
+}
+.feets{
+    position: absolute;
+    width: 360px;
+    height: 540px;
+    left: 540px;
+    top: 650px;
+    background: #FFFFFF;
+}
+.bigben{
+    position: absolute;
+    width: 360px;
+    height: 540px;
+    left: 920px;
+    top: 650px;
+    background: #FFFFFF;
+}
+.date1{
+    position: absolute;
+    width: 106px;
+    height: 16px;
+    left: 20px;
+    top: 270px;
+
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #818181;
+}
+.texttofotogirls{
+    position: absolute;
+    width: 296px;
+    height: 78px;
+    left: 20px;
+    top: 310px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+
+    color: #1D1D1D;
+}
+.avatofotogirls{
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    left: 20px;
+    top: 470px;
+}
+.date2{
+    position: absolute;
+    width: 106px;
+    height: 16px;
+    left: 20px;
+    top: 270px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    
+}
+.texttofeets{
+    position: absolute;
+    width: 290px;
+    height: 78px;
+    left: 20px;
+    top: 310px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #1D1D1D;
+
+}
+.avatofeets{
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    left: 20px;
+    top: 470px;
+}
+
+.date3{
+    position: absolute;
+    width: 106px;
+    height: 16px;
+    left: 20px;
+    top: 270px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #818181;
+}
+.textobigben{
+    position: absolute;
+    width: 266px;
+    height: 78px;
+    left: 20px;
+    top: 310px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #1D1D1D;
+}
+.avatobigben{
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    left: 20px;
+    top: 470px;
+}
